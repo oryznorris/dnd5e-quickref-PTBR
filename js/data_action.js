@@ -1,12 +1,12 @@
 data_action = [
     {
-        title: "Attack",
+        title: "Ataque",
         icon: "crossed-swords",
-        subtitle: "Melee or ranged attack",
-        description: "Perform a melee or ranged attack with your weapon",
+        subtitle: "Ataque corpo-a-corpo ou a distância",
+        description: "Realiza um ataque corpo-a-corpo ou a distância com sua arma",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
-            "Certain features, such as the <i>Extra Attack</i> feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You may move in between these attacks.",
+            "Certas habilidades, como <i>Ataque Extra</i> do Lutador, permite que você realize mais que um ataque nessa ação. Cada um desses ataques tem uma rolagem diferente e pode acertar criaturas diferentes. Você pode se mover entre esses ataques.",
             "When you attack with a light melee weapon, you can use a bonus action to attack with your other hand (see the <i>Offhand attack</i> bonus action).",
             "You may replace one of your melee attacks with a <i>Grapple</i> or a <i>Shove</i>.",
             "Some conditions give advantage on the attack: attacks against blinded, paralyzed, petrified, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers.",
