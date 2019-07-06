@@ -1,6 +1,6 @@
 data_action = [
     {
-        title: "Ataque",
+        title: "Attack",
         icon: "crossed-swords",
         subtitle: "Ataque corpo-a-corpo ou a distância",
         description: "Realiza um ataque corpo-a-corpo ou a distância com sua arma",
